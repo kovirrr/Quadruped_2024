@@ -1,0 +1,1 @@
+This is the partial unfinished code for a Quadruped, a robot that patrols schools. It does various things to ensure safety such as using facial recognition on anyone noticed, qr code detection for guests and SMS texting to the guard for safety.
